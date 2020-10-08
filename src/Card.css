@@ -1,0 +1,13 @@
+.card {
+    border: 1px solid lightgray;
+    height: 9rem;
+    min-width: 9rem;
+    width: 9rem;
+    margin: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 1px 4px 5px rgba(21, 8, 46, 0.2);
+}
